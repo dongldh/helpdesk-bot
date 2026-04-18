@@ -1,0 +1,14 @@
+# PDF 처리
+pymupdf>=1.23.0
+
+# PDF 재조립
+reportlab>=4.0.0
+
+# Claude API
+anthropic>=0.34.0
+
+# 설정 파일
+pyyaml>=6.0
+
+# 환경 변수
+python-dotenv>=1.0.0
